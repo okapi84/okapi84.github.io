@@ -164,18 +164,19 @@ body{
       
 
           #bigpicture_container{
-            width:800px;
+            width:650px;
            
            
           }
 
           #big_picture{
-            width: 500px;
-            height:200px;
+            width: 550px;
+            height:350px;
           }
 
           #thumbnail_containerr{
             width:600px;
+            height:300px;
           }
 
           #leftarrow{
@@ -184,13 +185,14 @@ body{
 
           #rightarrow{
             width:30px;
-            padding:0px;
+            
           }
 
           #textbox{
-            width:600px;
+            width:650px;
             height:60px;
-            margin-top:-260px;
+            top:390px;
+            left:407px;
           
           }
 
